@@ -15,7 +15,7 @@
 	vertical-align: middle;
 }
 .dtree a {
-	color: #06c10f;
+	color: #41a146;
 	text-decoration: none;
 }
 .dtree a.node, .dtree a.nodeSel {
@@ -23,7 +23,7 @@
 	padding: 1px 2px 1px 2px;
 }
 .dtree a.node:hover, .dtree a.nodeSel:hover {
-	color: #41a146;
+	color: #06c10f;
 	text-decoration: underline;
 }
 .dtree a.nodeSel {
